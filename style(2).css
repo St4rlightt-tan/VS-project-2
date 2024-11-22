@@ -1,0 +1,23 @@
+.wide-input{
+    width: 1100px;
+    margin: 20px;
+}
+#wide-input{
+    width: 1100px;
+    margin: 30px;
+}
+body{
+    background-image: url('https://media.istockphoto.com/id/860984780/photo/black-paw-prints-frame-on-white-wooden-background.jpg?s=1024x1024&w=is&k=20&c=YhPw8Xe4mL9dFohUhjyWEZsk6XFCy5QoN3HPcd7rUG0='); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+}
+.title{
+    margin: 20px;
+    margin-left: 500px;
+    color: aliceblue;
+    text-shadow: 10px; color: black;
+}
+h1{
+    margin-left: 500px;
+}

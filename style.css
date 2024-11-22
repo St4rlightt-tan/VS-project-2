@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+ul, ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-left: 100px;
+}
+
+.contact-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+}
+body{
+    background-image: url('https://media.istockphoto.com/id/1206500264/photo/cute-jack-russell-dog-working-on-laptop-at-home-technology-concept.jpg?s=1024x1024&w=is&k=20&c=aiTEKAzZgZogQp-0OdSo8IAW2VWlfHf4CvWEqkuD808='); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center; 
+}
+body{
+    font-family: 'Welcome to My Website', 'stencil''Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    color: black;
+
+}
+  p{
+	font-size: larger;
+	font-style: oblique;
+	font-weight: 200;
+}
+.About{
+    color: darkolivegreen;
+}

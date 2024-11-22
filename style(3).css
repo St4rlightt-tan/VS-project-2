@@ -1,0 +1,11 @@
+body{
+    margin: 100px;
+    margin-top: 250px;
+    margin-left: 200px;
+}
+body{
+    background-image: url('https://media.istockphoto.com/id/1128863126/photo/working-dog-cute-dog-is-working-on-a-silver-laptop-with-a-cup-of-coffee-dog-breed-continental.jpg?s=1024x1024&w=is&k=20&c=UksdX609fBGvlLrdzsP5WO_nOr73T1rIGJfwMdz8emI='); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+}

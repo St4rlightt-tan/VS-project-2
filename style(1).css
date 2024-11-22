@@ -1,0 +1,11 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/992637094/photo/british-short-hair-cat-and-golden-retriever.jpg?s=1024x1024&w=is&k=20&c=qZRJfoo8IGqjUBxaRUArkd9-PVHxfnxI4ymr1aDWOl0='); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+}
+p{
+	font-size: larger;
+	font-style: oblique;
+	font-weight: 200;
+}
